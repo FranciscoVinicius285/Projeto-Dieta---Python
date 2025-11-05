@@ -5,3 +5,8 @@ Este projeto foi desenvolvido a partir da disciplina “Desenvolvimento Rápido 
 No sistema, o usuário preenche um formulário informando seus dados pessoais (nome, idade, peso, altura, sexo e objetivo da dieta). A partir dessas informações, é realizado o cálculo da TMB (Taxa Metabólica Basal), que fornece a base para gerar automaticamente uma dieta com a distribuição adequada de macronutrientes (carboidratos, proteínas e gorduras) que o usuário deve consumir.
 
 Os resultados são armazenados no banco de dados, sendo uma tabela destinada às informações do usuário e outra voltada para os dados da dieta.
+
+
+
+<img width="520" height="430" alt="image" src="https://github.com/user-attachments/assets/2b2e1346-1c4d-4b4f-a3b8-3e067689e27d" />
+
